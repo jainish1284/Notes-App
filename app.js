@@ -1,4 +1,5 @@
 console.log('starting file');
+console.log('Before Push');
 
 const fs = require('fs');
 const os = require('os');
